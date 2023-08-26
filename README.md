@@ -32,6 +32,8 @@ ___
 * HEAD
 * branch
 * log --oneline (max length commit description = 72 simbols)
+* checkout
+  1. -b
 * ~~pull~~
 
 
