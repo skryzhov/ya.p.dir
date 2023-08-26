@@ -6,12 +6,18 @@ ___
 * add
 * restore
   1. --staged <file>
-* status:
+  2. <file>
+* reset
+  1. --hard <commit hash>
+* status
   1. tracked
   2. untracked
-  3. staged 
+  3. staged
   4. modified
 * commit
+* diff
+  1. <hash1> <hash2>
+  2. --staged
 * commit --amend
   1. --no-edit
   2. -m
