@@ -10,6 +10,8 @@ ___
 * reset
   1. --hard <commit hash>
 * status
+  --ignored
+* status
   1. tracked
   2. untracked
   3. staged
@@ -22,13 +24,19 @@ ___
   1. --no-edit
   2. -m
 * log
-* remote add
+* remote
+  1. add
+  2. -v
 * push -u origin main
 * push
 * HEAD
 * branch
 * log --oneline (max length commit description = 72 simbols)
 * ~~pull~~
+
+
+.gitignore 'dir/, [...], /, *, **, !, ?, #'
+
 
 **_Developer:_** skryzhov
 
