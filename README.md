@@ -19,7 +19,9 @@ ___
 * commit
 * diff
   1. <hash1> <hash2>
-  2. --staged
+  2. <name_branch_1> <name_branch_2>
+  3. --staged
+  4. suffix ~
 * commit --amend
   1. --no-edit
   2. -m
